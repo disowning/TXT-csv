@@ -1,0 +1,6 @@
+test1@example.com----password123----client-id-001----refresh-token-001-very-long-token-string
+test2@example.com----password456----client-id-002----refresh-token-002-another-long-token-string
+test3@example.com----password789----client-id-003----refresh-token-003-yet-another-token
+
+invalid-line-missing-fields
+test4@example.com----password000----client-id-004----refresh-token-004-final-token-string
